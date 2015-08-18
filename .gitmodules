@@ -1,0 +1,3 @@
+[submodule "hypeframework"]
+	path = hypeframework
+	url = https://github.com/Pandurx-Elgg/hypeframework.git
